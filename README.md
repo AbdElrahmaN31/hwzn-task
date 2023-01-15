@@ -10,3 +10,9 @@
 ## To run this project:
     php artisan setup:app
 - Run the previous command to set up the app and fill the database with dummy data (if you are in a local environment).
+
+## Demo
+- **[Task Demo](https://hwzn.hvacrtoolbox.com/)**
+
+## Postman API
+- **[Collection docs](https://documenter.getpostman.com/view/16454903/2s8ZDSdRWF#2e2e0622-a0ca-48cd-b721-0920cff037cc)**
